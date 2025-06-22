@@ -43,15 +43,15 @@ Project 6/
 
 ├── data/
 
-│ └── Telco-Customer-Churn.csv      # Sample dataset
+ └── Telco-Customer-Churn.csv      # Sample dataset
 
 ├── plots/
 
-│ └── shap_visualizations.pdf       # Exported visuals (generated)
+ └── shap_visualizations.pdf       # Exported visuals (generated)
 
 ├── notebooks/
 
-│ └── churn_analysis.ipynb          # EDA and model notebook
+ └── churn_analysis.ipynb          # EDA and model notebook
 
 ├── model.pkl                       # (optional) Saved model (currently empty)
 
