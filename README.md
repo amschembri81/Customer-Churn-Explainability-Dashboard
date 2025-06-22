@@ -34,6 +34,7 @@ An interactive Streamlit app that visualizes SHAP values to explain predictions 
 ## 🗂️ File Structure
 
 Project 6/
+
 ├── app.py                          # Streamlit app
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # Project README (this file)
