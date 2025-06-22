@@ -36,17 +36,26 @@ An interactive Streamlit app that visualizes SHAP values to explain predictions 
 Project 6/
 
 ├── app.py                          # Streamlit app
+
 ├── requirements.txt                # Python dependencies
+
 ├── README.md                       # Project README (this file)
+
 ├── data/
 │ └── Telco-Customer-Churn.csv      # Sample dataset
+
 ├── plots/
 │ └── shap_visualizations.pdf       # Exported visuals (generated)
+
 ├── notebooks/
 │ └── churn_analysis.ipynb          # EDA and model notebook
+
 ├── model.pkl                       # (optional) Saved model (currently empty)
+
 ├── scaler.pkl                      # (optional) Saved scaler (currently empty)
+
 ├── churn_app.py                    # (optional, currently unused)
+
 └── .venv/                          # Python virtual environment
 
 
