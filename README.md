@@ -42,12 +42,15 @@ Project 6/
 ├── README.md                       # Project README (this file)
 
 ├── data/
+
 │ └── Telco-Customer-Churn.csv      # Sample dataset
 
 ├── plots/
+
 │ └── shap_visualizations.pdf       # Exported visuals (generated)
 
 ├── notebooks/
+
 │ └── churn_analysis.ipynb          # EDA and model notebook
 
 ├── model.pkl                       # (optional) Saved model (currently empty)
