@@ -116,29 +116,29 @@ Once started, the app will automatically open in your default browser at:  http:
 ## 📄 Exporting Visuals
 To export all SHAP plots:
 
-Navigate to the application in your browser.
+  - Navigate to the application in your browser.
 
-Click the "📄 Download All Visualizations as PDF" button.
+  - Click the "📄 Download All Visualizations as PDF" button.
 
-The SHAP plots will be saved as a PDF in the following directory: plots/shap_visualizations.pdf
-You can then download or access this file directly.
+  - The SHAP plots will be saved as a PDF in the following directory: plots/shap_visualizations.pdf, you can then download or access this file directly.
 
 ## 🛠️ To Do
- Add support for uploading a pre-trained model
+  - Add support for uploading a pre-trained model
 
- Allow user to select features for SHAP summary
+  - Allow user to select features for SHAP summary
 
- Deploy to Streamlit Community Cloud
+  - Deploy to Streamlit Community Cloud
 
 ## 💡 Why This Project?
+
 Understanding why a customer is predicted to churn is just as important as knowing that they will. This project is a bridge between black-box models and human-centered interpretability.
 
-Use cases:
+#Use cases:
 
-Model debugging and validation
+  - Model debugging and validation
 
-Customer insight discovery
+  - Customer insight discovery
 
-Stakeholder-ready reporting
+  - Stakeholder-ready reporting
 
-Feature importance exploration
+  - Feature importance exploration
